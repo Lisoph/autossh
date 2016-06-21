@@ -1,0 +1,9 @@
+[package]
+name = "autossh"
+version = "0.1.0"
+authors = ["Daniel Hauser <daniel.hauser@liwest.at>"]
+
+[dependencies]
+ssh2 = "0.2.11"
+ansi_term = "0.7.2"
+clap = "2.5.2"
